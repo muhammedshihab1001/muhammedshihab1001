@@ -1,7 +1,6 @@
-# 🧑‍💻 Welcome to My GitHub Profile!
-
-Hello! I'm **Muhammed Shihab**, a passionate **Machine Learning** developer and **Python** enthusiast. I love creating innovative projects, solving complex problems, and continuously learning in the field of **AI** and **software development**. 🚀
-
+# 👋 Hi, I'm Muhammed Shihab P ![GitHub followers](https://img.shields.io/github/followers/muhammedshihab1001?style=social)![GitHub stars](https://img.shields.io/github/stars/muhammedshihab1001?style=social)
+### 🚀 Machine Learning Developer | Passionate about AI and Web Development
+Hello! I'm a passionate **Machine Learning** developer and **Python** enthusiast. I love creating innovative projects, solving complex problems, and continuously learning in the field of **AI** and **software development**. 🚀
 ## 🔧 Skills & Technologies
 
 ### **Programming Languages:**
