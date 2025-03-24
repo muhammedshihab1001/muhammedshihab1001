@@ -59,7 +59,7 @@ Hello! I'm a passionate **Machine Learning** developer and **Python** enthusiast
 
 If you'd like to collaborate, discuss a project, or just chat about technology, feel free to reach out to me through the following:
 
-- 📧 **Email**: [muhammedshihab2002@gmail.com]
+- 📧 **Email**: [Email](mailto:muhammedshihab2002@gmail.com)
 - 🌐 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/muhammedshihabp/)
 
 ---
