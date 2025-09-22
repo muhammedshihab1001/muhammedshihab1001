@@ -69,8 +69,9 @@ Hello! I'm a passionate **Machine Learning** developer and **Python** enthusiast
 If you'd like to collaborate, discuss a project, or just chat about technology, feel free to reach out to me through the following:
 
 - 📧 **Email**: [Email](mailto:muhammedshihab2002@gmail.com)
-- 🌐 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/muhammedshihabp?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
+- 🌐 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/muhammedshihabp?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 💬 **Discord**: [Discord](https://discordapp.com/users/muhammedshihab1001)
+- 📱 **Telegram**: [Telegram](https://t.me/muhammedshihab1001)
 ---
 
 ## 🔗 My Projects
