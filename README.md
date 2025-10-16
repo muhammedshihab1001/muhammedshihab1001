@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Muhammed Shihab P
-### 🚀 Machine Learning Developer | Passionate about AI and Web Development
-Hello! I'm a passionate **Machine Learning** developer and **Python** enthusiast. I love creating innovative projects, solving complex problems, and continuously learning in the field of **AI** and **software development**. 🚀
+### 🚀 Machine Learning Developer | AI/ML Enthusiast | Web Development Passionate
+
+Hello! I'm a **Machine Learning Developer** and **AI enthusiast** with a passion for solving real-world problems using **Deep Learning**, **NLP**, and **Time Series analysis**. My expertise includes developing innovative projects using **Python**, **TensorFlow**, and **PyTorch**. I’m always diving into new **Generative AI** techniques and love exploring the intersection of **AI** with **Web Development**. 🚀
+
 ## 🔧 Skills & Technologies
 
 ### **Programming Languages**
