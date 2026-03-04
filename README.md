@@ -152,7 +152,7 @@ Focused on:
 
 <p align="center">
 
-<a href="mailto:muhammedshihab2002@gmail.com">
+<a href="mailto:muhammedshihab2002@gmail.com?subject=Contact%20from%20GitHub">
   <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00c6ff" />
 </a>
 
