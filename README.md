@@ -127,20 +127,20 @@ Focused on:
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammedshihab1001&theme=github_dark" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammedshihab1001&theme=github_dark" width="60%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammedshihab1001&theme=github_dark" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammedshihab1001&theme=github_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammedshihab1001&theme=github_dark" width="30%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammedshihab1001&theme=github_dark" width="30%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammedshihab1001&theme=github-dark&hide_border=true&color=00c6ff&line=00c6ff&point=1f6feb" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammedshihab1001&theme=github-dark&hide_border=true&color=00c6ff&line=00c6ff&point=1f6feb" width="60%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=muhammedshihab1001&theme=transparent&border_radius=12&ring=00c6ff&fire=00c6ff&background=0d1117" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=muhammedshihab1001&theme=transparent&border_radius=12&ring=00c6ff&fire=00c6ff&background=0d1117" width="60%" />
 </p>
 
 <br/>
