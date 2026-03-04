@@ -1,0 +1,61 @@
+<svg width="100%" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <!-- Animated Background Gradient -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a192f">
+        <animate attributeName="stop-color"
+                 values="#0a192f;#112240;#1f6feb;#00c6ff;#0a192f"
+                 dur="14s"
+                 repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#1f6feb">
+        <animate attributeName="stop-color"
+                 values="#1f6feb;#00f2fe;#112240;#0a192f;#1f6feb"
+                 dur="14s"
+                 repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Soft Glow Effect -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="300" fill="url(#bgGradient)" rx="20"/>
+
+  <!-- Name -->
+  <text x="50%" y="45%"
+        text-anchor="middle"
+        font-size="42"
+        font-family="Segoe UI, sans-serif"
+        fill="#ffffff"
+        filter="url(#glow)">
+    Muhammed Shihab P
+    <animate attributeName="opacity"
+             values="0;1"
+             dur="2s"
+             fill="freeze"/>
+  </text>
+
+  <!-- Subtitle -->
+  <text x="50%" y="65%"
+        text-anchor="middle"
+        font-size="20"
+        font-family="Segoe UI, sans-serif"
+        fill="#00f2fe">
+    Machine Learning Engineer • AI Systems • MLOps • Backend
+    <animate attributeName="opacity"
+             values="0;1"
+             dur="3s"
+             fill="freeze"/>
+  </text>
+
+</svg>
