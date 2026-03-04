@@ -1,0 +1,24 @@
+<svg width="400" height="80" viewBox="0 0 400 80" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="contactGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1f6feb"/>
+      <stop offset="100%" stop-color="#00f2fe">
+        <animate attributeName="offset"
+                 values="0;1;0"
+                 dur="5s"
+                 repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <rect width="400" height="80" rx="15" fill="#0a192f" stroke="url(#contactGrad)" stroke-width="3"/>
+
+  <text x="50%" y="52%" text-anchor="middle"
+        font-size="18"
+        font-family="Segoe UI"
+        fill="#ffffff">
+    Open to AI / ML / MLOps Opportunities
+  </text>
+
+</svg>
