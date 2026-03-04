@@ -8,16 +8,18 @@
   <img src="about-header.svg" width="100%" />
 </p>
 
-Machine Learning Engineer building scalable AI systems, production-grade ML pipelines, and deployment-ready backend architectures.
+Self-taught Machine Learning Engineer passionate about building intelligent systems and scalable AI solutions.
 
-Focused on:
+I focus on developing production-ready machine learning pipelines, deep learning models, and backend infrastructure for real-world AI applications.
 
-- Deep Learning Architectures  
-- NLP Systems  
-- Time Series Forecasting  
-- Generative AI Applications  
-- MLOps Automation  
-- AI Backend APIs  
+Core areas of interest:
+
+- Deep Learning Architectures
+- Natural Language Processing (NLP)
+- Time Series Forecasting
+- Generative AI Systems
+- MLOps and Model Lifecycle Automation
+- AI Backend APIs and Deployment 
 
 <br/>
 
