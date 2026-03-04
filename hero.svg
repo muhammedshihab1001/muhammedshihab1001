@@ -1,48 +1,59 @@
-<svg width="100%" height="340" viewBox="0 0 1200 340" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg">
 
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0a192f">
-        <animate attributeName="stop-color"
-                 values="#0a192f;#112240;#1f6feb;#00c6ff;#0a192f"
-                 dur="15s"
-                 repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#1f6feb">
-        <animate attributeName="stop-color"
-                 values="#1f6feb;#00f2fe;#112240;#0a192f;#1f6feb"
-                 dur="15s"
-                 repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
+<defs>
+  <linearGradient id="grad" x1="0%" y1="0%" x2="100%">
+    <stop offset="0%" stop-color="#00c6ff"/>
+    <stop offset="100%" stop-color="#1f6feb"/>
+  </linearGradient>
 
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="6" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="4" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
 
-  </defs>
+<!-- Background -->
+<rect width="1200" height="360" fill="#0d1117"/>
 
-  <rect width="1200" height="340" fill="url(#bg)" rx="20"/>
+<!-- Subtle AI Grid -->
+<g stroke="#1f2937" stroke-width="1" opacity="0.3">
+  <line x1="0" y1="120" x2="1200" y2="120"/>
+  <line x1="0" y1="240" x2="1200" y2="240"/>
+  <line x1="300" y1="0" x2="300" y2="360"/>
+  <line x1="600" y1="0" x2="600" y2="360"/>
+  <line x1="900" y1="0" x2="900" y2="360"/>
+</g>
 
-  <text x="50%" y="42%" text-anchor="middle"
-        font-size="46"
-        font-family="Segoe UI, sans-serif"
-        fill="#ffffff"
-        filter="url(#glow)">
-    Muhammed Shihab P
-    <animate attributeName="opacity" values="0;1" dur="2s" fill="freeze"/>
-  </text>
+<!-- Neural Nodes (static) -->
+<g fill="url(#grad)" filter="url(#glow)">
+  <circle cx="300" cy="120" r="4"/>
+  <circle cx="600" cy="240" r="4"/>
+  <circle cx="900" cy="120" r="4"/>
+</g>
 
-  <text x="50%" y="62%" text-anchor="middle"
-        font-size="20"
-        font-family="Segoe UI, sans-serif"
-        fill="#00f2fe">
-    Machine Learning Engineer • AI Systems • MLOps • Backend
-    <animate attributeName="opacity" values="0;1" dur="3s" fill="freeze"/>
-  </text>
+<!-- Title -->
+<text x="50%" y="170"
+      text-anchor="middle"
+      font-size="46"
+      font-family="Segoe UI, sans-serif"
+      fill="url(#grad)"
+      filter="url(#glow)">
+  Muhammed Shihab P
+</text>
+
+<!-- Subtitle -->
+<text x="50%" y="210"
+      text-anchor="middle"
+      font-size="18"
+      font-family="Segoe UI, sans-serif"
+      fill="#8b949e">
+  Machine Learning Engineer • AI Systems Architect • MLOps Engineer
+</text>
+
+<!-- Accent Line -->
+<rect x="400" y="260" width="400" height="2" fill="url(#grad)" />
 
 </svg>

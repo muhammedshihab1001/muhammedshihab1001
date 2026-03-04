@@ -1,0 +1,57 @@
+<svg width="100%" height="90" viewBox="0 0 1200 90" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <!-- Background gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0b0f14"/>
+    </linearGradient>
+
+    <!-- Accent line gradient -->
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1f6feb"/>
+      <stop offset="50%" stop-color="#00c6ff"/>
+      <stop offset="100%" stop-color="#1f6feb"/>
+    </linearGradient>
+
+    <!-- Glow -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Subtle grid pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0 L0 0 0 40" fill="none" stroke="#1f6feb" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="90" fill="url(#bgGrad)"/>
+
+  <!-- Grid Overlay -->
+  <rect width="1200" height="90" fill="url(#grid)"/>
+
+  <!-- Section Title -->
+  <text x="600" y="50"
+        text-anchor="middle"
+        font-size="30"
+        font-family="Segoe UI, Arial"
+        fill="#00c6ff"
+        letter-spacing="4"
+        font-weight="600">
+    GITHUB ACTIVITY AND INSIGHTS
+  </text>
+
+  <!-- Underline -->
+  <rect x="300" y="65" width="600" height="3"
+        fill="url(#lineGrad)"
+        filter="url(#glow)"
+        rx="2"/>
+
+</svg>

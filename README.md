@@ -1,142 +1,175 @@
-# 👋 Hi, I'm Muhammed Shihab P
-### 🚀 Machine Learning Developer | AI/ML Enthusiast | Web Development Passionate
+<p align="center">
+  <img src="hero.svg" width="100%" />
+</p>
 
-Hello! I'm a **Machine Learning Developer** and **AI enthusiast** with a passion for solving real-world problems using **Deep Learning**, **NLP**, and **Time Series analysis**. My expertise includes developing innovative projects using **Python**, **TensorFlow**, and **PyTorch**. I’m always diving into new **Generative AI** techniques and love exploring the intersection of **AI** with **Web Development**. 🚀
+<br/>
 
-## 🔧 Skills & Technologies
+<p align="center">
+  <img src="about-header.svg" width="100%" />
+</p>
 
-### **Programming Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+Machine Learning Engineer building scalable AI systems, production-grade ML pipelines, and deployment-ready backend architectures.
 
----
+Focused on:
 
-### **Machine Learning & Data Science**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCA28?style=for-the-badge&logo=huggingface&logoColor=black)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge&logo=python&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-154360?style=for-the-badge&logo=python&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-005C5C?style=for-the-badge&logo=python&logoColor=white)
-![Prophet](https://img.shields.io/badge/Prophet-232F3E?style=for-the-badge&logo=python&logoColor=white)
+- Deep Learning Architectures  
+- NLP Systems  
+- Time Series Forecasting  
+- Generative AI Applications  
+- MLOps Automation  
+- AI Backend APIs  
 
----
+<br/>
 
-### **Transformers, LLMs & Generative AI**
-![Transformers](https://img.shields.io/badge/Transformers-FFCA28?style=for-the-badge&logo=huggingface&logoColor=black)
-![BERT](https://img.shields.io/badge/BERT-0052CC?style=for-the-badge&logo=google&logoColor=white)
-![GPT](https://img.shields.io/badge/GPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-5A67D8?style=for-the-badge&logo=meta&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-6B46C1?style=for-the-badge&logo=openai&logoColor=white)
+<p align="center">
+  <img src="tech-header.svg" width="100%" />
+</p>
 
----
+<p align="center"><b>Programming Languages</b></p>
 
-### **Web Development & Frameworks**
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00c6ff)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00c6ff)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=java&logoColor=00c6ff)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00c6ff)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=00c6ff)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=00c6ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00c6ff)
 
----
+<br/>
 
-### **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="center"><b>Machine Learning & Data Science</b></p>
 
----
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=00c6ff)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=00c6ff)
+![Keras](https://img.shields.io/badge/Keras-0d1117?style=for-the-badge&logo=keras&logoColor=00c6ff)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=00c6ff)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=00c6ff)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=00c6ff)
+![SciPy](https://img.shields.io/badge/SciPy-0d1117?style=for-the-badge&logo=scipy&logoColor=00c6ff)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-0d1117?style=for-the-badge&logo=python&logoColor=00c6ff)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=python&logoColor=00c6ff)
+![Seaborn](https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge&logo=python&logoColor=00c6ff)
+![Prophet](https://img.shields.io/badge/Prophet-0d1117?style=for-the-badge&logo=python&logoColor=00c6ff)
+![NLTK](https://img.shields.io/badge/NLTK-0d1117?style=for-the-badge&logo=python&logoColor=00c6ff)
+![spaCy](https://img.shields.io/badge/spaCy-0d1117?style=for-the-badge&logo=spacy&logoColor=00c6ff)
 
-### **Big Data & Data Engineering**
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-FFCC00?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
-![HDFS](https://img.shields.io/badge/HDFS-0052CC?style=for-the-badge&logo=apache&logoColor=white)
+<br/>
 
----
+<p align="center"><b>Transformers, LLMs & Generative AI</b></p>
 
-### **MLOps & Model Lifecycle**
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
-![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![TFX](https://img.shields.io/badge/TFX-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-0d1117?style=for-the-badge&logo=huggingface&logoColor=00c6ff)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=00c6ff)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=00c6ff)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0d1117?style=for-the-badge&logo=meta&logoColor=00c6ff)
+![RAG](https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&logo=openai&logoColor=00c6ff)
 
----
+<br/>
 
-### **Model Deployment & Serving**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![TensorFlow Serving](https://img.shields.io/badge/TensorFlow%20Serving-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![TorchServe](https://img.shields.io/badge/TorchServe-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=postman&logoColor=white)
+<p align="center"><b>Web Development & APIs</b></p>
 
----
+![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=00c6ff)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=00c6ff)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00c6ff)
+![REST API](https://img.shields.io/badge/REST_API-0d1117?style=for-the-badge&logo=postman&logoColor=00c6ff)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=00c6ff)
 
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<p align="center"><b>Databases</b></p>
 
----
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00c6ff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00c6ff)
 
-### **Version Control, Testing & CI/CD**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Pylint](https://img.shields.io/badge/Pylint-FFC107?style=for-the-badge&logo=python&logoColor=black)
-![CI/CD](https://img.shields.io/badge/CI/CD-0A66C2?style=for-the-badge&logo=githubactions&logoColor=white)
 
----
+<p align="center"><b>Big Data & Data Engineering</b></p>
 
-### **Other Tools**
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-0d1117?style=for-the-badge&logo=apachespark&logoColor=00c6ff)
+![PySpark](https://img.shields.io/badge/PySpark-0d1117?style=for-the-badge&logo=apachespark&logoColor=00c6ff)
+![Hadoop](https://img.shields.io/badge/Hadoop-0d1117?style=for-the-badge&logo=apachehadoop&logoColor=00c6ff)
+![Hive](https://img.shields.io/badge/Hive-0d1117?style=for-the-badge&logo=apachehive&logoColor=00c6ff)
+![HDFS](https://img.shields.io/badge/HDFS-0d1117?style=for-the-badge&logo=apache&logoColor=00c6ff)
 
----
+<p align="center"><b>MLOps & Model Lifecycle</b></p>
 
-## 📊 GitHub Stats
+![MLflow](https://img.shields.io/badge/MLflow-0d1117?style=for-the-badge&logo=mlflow&logoColor=00c6ff)
+![DVC](https://img.shields.io/badge/DVC-0d1117?style=for-the-badge&logo=dvc&logoColor=00c6ff)
+![Kubeflow](https://img.shields.io/badge/Kubeflow-0d1117?style=for-the-badge&logo=kubernetes&logoColor=00c6ff)
+![TFX](https://img.shields.io/badge/TFX-0d1117?style=for-the-badge&logo=tensorflow&logoColor=00c6ff)
+![Prometheus](https://img.shields.io/badge/Prometheus-0d1117?style=for-the-badge&logo=prometheus&logoColor=00c6ff)
+![Grafana](https://img.shields.io/badge/Grafana-0d1117?style=for-the-badge&logo=grafana&logoColor=00c6ff)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammedshihab1001&show_icons=true&hide_title=true&count_private=true&theme=radical)
+<p align="center"><b>Cloud & DevOps</b></p>
 
-### 🔝 Top Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedshihab1001&layout=compact&theme=radical)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=00c6ff)
+![Google Cloud](https://img.shields.io/badge/GCP-0d1117?style=for-the-badge&logo=googlecloud&logoColor=00c6ff)
+![Azure](https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=00c6ff)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00c6ff)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-0d1117?style=for-the-badge&logo=docker&logoColor=00c6ff)
 
-### 🔥 GitHub Streak:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammedshihab1001&theme=radical)
+<br/>
 
----
+<p align="center"><b>Version Control, Testing & CI/CD</b></p>
 
-## 📬 Get in Touch
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00c6ff)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00c6ff)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=00c6ff)
+![Jenkins](https://img.shields.io/badge/Jenkins-0d1117?style=for-the-badge&logo=jenkins&logoColor=00c6ff)
+![pytest](https://img.shields.io/badge/pytest-0d1117?style=for-the-badge&logo=pytest&logoColor=00c6ff)
+![Pylint](https://img.shields.io/badge/Pylint-0d1117?style=for-the-badge&logo=python&logoColor=00c6ff)
 
-If you'd like to collaborate, discuss a project, or just chat about technology, feel free to reach out to me through the following:
+<p align="center"><b>Other Tools</b></p>
 
-- 📧 **Email**: [Email](mailto:muhammedshihab2002@gmail.com)
-- 🌐 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/muhammedshihabp?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 💬 **Discord**: [Discord](https://discordapp.com/users/muhammedshihab1001)
-- 📱 **Telegram**: [Telegram](https://t.me/muhammedshihab1001)
----
+![Anaconda](https://img.shields.io/badge/Anaconda-0d1117?style=for-the-badge&logo=anaconda&logoColor=00c6ff)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-0d1117?style=for-the-badge&logo=jupyter&logoColor=00c6ff)
 
-## 🔗 My Projects
+<br/>
 
-Here’s a list of my repositories:
+<p align="center">
+  <img src="github-header.svg" width="100%" />
+</p>
 
-- **[Maruti-Suzuki](https://muhammedshihab1001.github.io/Maruti-Suzuki/)**
-- **[Suzuki Motorcycle](https://muhammedshihab1001.github.io/suzuki)**
-- **[KTM](https://muhammedshihab1001.github.io/KTM/)**
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammedshihab1001&theme=github_dark" width="100%" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammedshihab1001&theme=github_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammedshihab1001&theme=github_dark" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammedshihab1001&theme=github-dark&hide_border=true&color=00c6ff&line=00c6ff&point=1f6feb" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=muhammedshihab1001&theme=transparent&border_radius=12&ring=00c6ff&fire=00c6ff&background=0d1117" width="100%" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="connect-header.svg" width="100%" />
+</p>
+
+
+<p align="center">
+
+<a href="mailto:muhammedshihab2002@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00c6ff" />
+</a>
+
+<a href="https://www.linkedin.com/in/muhammedshihabp">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00c6ff" />
+</a>
+
+<a href="https://t.me/muhammedshihab1001">
+  <img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=00c6ff" />
+</a>
+
+<a href="https://discordapp.com/users/muhammedshihab1001">
+  <img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=00c6ff" />
+</a>
+
+</p>
+
+<p align="center">
+  <img src="contact-badge.svg" width="100%" />
+</p>
