@@ -129,7 +129,7 @@ Core areas of interest:
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammedshihab1001&theme=github_dark" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammedshihab1001&show_icons=true&theme=github_dark" width="60%" />
 </p>
 
 <p align="center">
