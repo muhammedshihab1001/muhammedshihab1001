@@ -1,0 +1,24 @@
+<svg width="100%" viewBox="0 0 1200 520" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="Contact: let's build">
+  <defs></defs>
+  <rect width="1200" height="520" fill="#efece4"/>
+  <text x="24" y="38" font-family="'JetBrains Mono','IBM Plex Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#111111">07 — CONTACT</text>
+  <text x="1176" y="38" text-anchor="end" font-family="'JetBrains Mono','IBM Plex Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#111111">P. 07</text>
+  <line x1="0" y1="56" x2="1200" y2="56" stroke="#111111" stroke-width="1.5"/>
+  <text x="16" y="250" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="190" font-weight="900" fill="#111111" textLength="640" lengthAdjust="spacingAndGlyphs">LET’S</text>
+  <text x="16" y="410" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="190" font-weight="900" fill="#ff3b1f" textLength="700" lengthAdjust="spacingAndGlyphs">BUILD.</text>
+  <line x1="736" y1="56" x2="736" y2="440" stroke="#111111" stroke-width="1.5"/>
+  <text x="760" y="126" font-family="'JetBrains Mono','IBM Plex Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#6b675e">EMAIL</text>
+    <text x="760" y="150" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#111111">muhammedshihab2002@gmail.com</text>
+    <line x1="760" y1="164" x2="1176" y2="164" stroke="#111111" stroke-width="1"/><text x="760" y="190" font-family="'JetBrains Mono','IBM Plex Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#6b675e">LINKEDIN</text>
+    <text x="760" y="214" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#111111">in/muhammedshihabp</text>
+    <line x1="760" y1="228" x2="1176" y2="228" stroke="#111111" stroke-width="1"/><text x="760" y="254" font-family="'JetBrains Mono','IBM Plex Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#6b675e">TELEGRAM</text>
+    <text x="760" y="278" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#111111">t.me/muhammedshihab1001</text>
+    <line x1="760" y1="292" x2="1176" y2="292" stroke="#111111" stroke-width="1"/><text x="760" y="318" font-family="'JetBrains Mono','IBM Plex Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#6b675e">NOW LEARNING</text>
+    <text x="760" y="342" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#111111">Go · agent engineering</text>
+    <line x1="760" y1="356" x2="1176" y2="356" stroke="#111111" stroke-width="1"/>
+  <text x="760" y="410" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#6b675e">Open to conversations on AI agents,</text>
+  <text x="760" y="430" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#6b675e">platforms and production AI.</text>
+  <rect x="0" y="440" width="1200" height="80" fill="#111111"/>
+  <text x="24" y="486" font-family="'JetBrains Mono','IBM Plex Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#efece4">COLOPHON — SET IN HELVETICA · PRINTED ON GITHUB · ISSUE MMXXVI</text>
+  <text x="1176" y="486" text-anchor="end" font-family="'JetBrains Mono','IBM Plex Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#ff3b1f">END OF ISSUE ■</text>
+</svg>

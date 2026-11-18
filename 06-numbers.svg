@@ -1,0 +1,9 @@
+<svg width="100%" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="By the numbers">
+  <defs></defs>
+  <rect width="1200" height="140" fill="#efece4"/>
+  <text x="24" y="38" font-family="'JetBrains Mono','IBM Plex Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#111111">06 — BY THE NUMBERS</text>
+  <text x="1176" y="38" text-anchor="end" font-family="'JetBrains Mono','IBM Plex Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#111111">P. 06</text>
+  <line x1="0" y1="56" x2="1200" y2="56" stroke="#111111" stroke-width="1.5"/>
+  <text x="24" y="112" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="46" font-weight="900" fill="#111111" letter-spacing="-1">Numbers.</text>
+  <text x="1176" y="112" text-anchor="end" font-family="'JetBrains Mono','IBM Plex Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#6b675e">INCLUDES PRIVATE WORK</text>
+</svg>

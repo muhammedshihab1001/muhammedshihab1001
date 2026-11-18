@@ -1,0 +1,32 @@
+<svg width="100%" viewBox="0 0 1200 560" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="About: full-stack and AI engineer; self-taught ML background">
+  <defs></defs>
+  <rect width="1200" height="560" fill="#efece4"/>
+  <text x="24" y="38" font-family="'JetBrains Mono','IBM Plex Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#111111">02 — ABOUT</text>
+  <text x="1176" y="38" text-anchor="end" font-family="'JetBrains Mono','IBM Plex Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#111111">P. 02</text>
+  <line x1="0" y1="56" x2="1200" y2="56" stroke="#111111" stroke-width="1.5"/>
+  <text x="24" y="150" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="78" font-weight="900" fill="#111111" letter-spacing="-2">I BUILD</text>
+  <text x="24" y="232" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="78" font-weight="900" fill="#111111" letter-spacing="-2">THE <tspan fill="#ff3b1f">WHOLE</tspan></text>
+  <text x="24" y="314" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="78" font-weight="900" fill="#111111" letter-spacing="-2">MACHINE.</text>
+  <line x1="608" y1="90" x2="608" y2="350" stroke="#111111" stroke-width="1"/>
+  <text x="640" y="120" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" fill="#111111">Full-stack and AI engineer at Vizaido. I build</text><text x="640" y="148" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" fill="#111111">production web platforms end to end: LLM</text><text x="640" y="176" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" fill="#111111">agents with strong guardrails, payment-safe</text><text x="640" y="204" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" fill="#111111">backends and well-monitored services.</text><text x="640" y="252" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" fill="#6b675e">Self-taught. I moved from finance and</text><text x="640" y="280" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" fill="#6b675e">taxation into software, and I still build</text><text x="640" y="308" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" fill="#6b675e">machine learning and data projects in public.</text><text x="640" y="336" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" fill="#6b675e">Currently learning: Go, agent engineering.</text>
+  <text x="24" y="380" font-family="'JetBrains Mono','IBM Plex Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#6b675e">FIG. 02 — FROM FINANCE TO AI, SELF-TAUGHT</text>
+  <line x1="90" y1="440" x2="1110" y2="440" stroke="#111111" stroke-width="2"/><circle cx="90.0" cy="440" r="7" fill="#111111"/>
+    <text x="90.0" y="410" text-anchor="middle" font-family="'JetBrains Mono','IBM Plex Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#6b675e">01</text>
+    <text x="90.0" y="476" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="800" fill="#111111">FINANCE &amp; TAX</text>
+    <text x="90.0" y="498" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#6b675e">Where I started</text><circle cx="294.0" cy="440" r="7" fill="#111111"/>
+    <text x="294.0" y="410" text-anchor="middle" font-family="'JetBrains Mono','IBM Plex Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#6b675e">02</text>
+    <text x="294.0" y="476" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="800" fill="#111111">PYTHON &amp; DATA</text>
+    <text x="294.0" y="498" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#6b675e">Pandas · SQL</text><circle cx="498.0" cy="440" r="7" fill="#111111"/>
+    <text x="498.0" y="410" text-anchor="middle" font-family="'JetBrains Mono','IBM Plex Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#6b675e">03</text>
+    <text x="498.0" y="476" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="800" fill="#111111">MACHINE LEARNING</text>
+    <text x="498.0" y="498" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#6b675e">scikit-learn · XGBoost</text><circle cx="702.0" cy="440" r="7" fill="#111111"/>
+    <text x="702.0" y="410" text-anchor="middle" font-family="'JetBrains Mono','IBM Plex Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#6b675e">04</text>
+    <text x="702.0" y="476" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="800" fill="#111111">DEEP LEARNING</text>
+    <text x="702.0" y="498" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#6b675e">CNN · LSTM · BERT</text><circle cx="906.0" cy="440" r="7" fill="#111111"/>
+    <text x="906.0" y="410" text-anchor="middle" font-family="'JetBrains Mono','IBM Plex Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#6b675e">05</text>
+    <text x="906.0" y="476" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="800" fill="#111111">BACKEND &amp; DATA</text>
+    <text x="906.0" y="498" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#6b675e">Django · PySpark</text><circle cx="1110.0" cy="440" r="11" fill="#ff3b1f"/><circle cx="1110.0" cy="440" r="11" fill="none" stroke="#ff3b1f" stroke-width="2"><animate attributeName="r" values="11;24" dur="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0" dur="1.8s" repeatCount="indefinite"/></circle>
+    <text x="1110.0" y="410" text-anchor="middle" font-family="'JetBrains Mono','IBM Plex Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#ff3b1f">06 · NOW</text>
+    <text x="1110.0" y="476" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="800" fill="#111111">FULL-STACK AI</text>
+    <text x="1110.0" y="498" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#6b675e">Agents · platforms</text>
+</svg>
